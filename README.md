@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niikkk8" alt="niikkk8" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/niket235" target="blank"><img src="https://img.shields.io/twitter/follow/niket235?logo=twitter&style=for-the-badge" alt="niket235" /></a> </p>
-
 - 🔭 I’m currently working on [a Full-Stack Twitter Clone](https://github.com/Niikkk8/twitter-clone)
 
 - 🌱 I’m currently learning **React in depth**
@@ -19,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/niket235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niket235" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/niket-shah-64713b243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/niket-shah-64713b243/" height="30" width="40" /></a>
 <a href="https://instagram.com/niikk.8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niikk.8" height="30" width="40" /></a>
 <a href="https://discord.gg/@nik8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@nik8" height="30" width="40" /></a>
