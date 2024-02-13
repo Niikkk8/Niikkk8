@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niikkk8" alt="niikkk8" /></a> </p>
 
-- 🔭 I’m currently working on [a Full-Stack Twitter Clone](https://github.com/Niikkk8/twitter-clone)
-
 - 🌱 I’m currently learning **React in depth**
 
 - 👨‍💻 All of my projects are available at [https://niikkk8.github.io/E-Portfolio](https://niikkk8.github.io/E-Portfolio)
