@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React in depth**
 
-- 👨‍💻 All of my projects are available at [https://niikkk8.github.io/E-Portfolio](https://niikkk8.github.io/E-Portfolio)
+- 👨‍💻 All of my projects are available at [https://niket.dev](https://niket.dev/)
 
 - 💬 Ask me about **Java, Javascript, React**
 
